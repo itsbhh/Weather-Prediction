@@ -46,6 +46,8 @@ This project predicts **temperature trends** from the [*Seattle Weather Dataset*
 | BiGRU–RNN    | 3.1732 | 2.5079 | 11.77 | 2.9713 | 2.3216 | 16.99 |
 | Vanilla RNN  | 3.2492 | 2.5888 | 12.34 | 3.0890 | 2.4116 | 18.28 |
 | CNN          | 3.9368 | 3.1126 | 14.65 | 3.3293 | 2.6859 | 21.48 |
+
+
 <img width="609" height="268" alt="image" src="https://github.com/user-attachments/assets/e6b0a3db-5686-41da-ac0a-e189151f2699" />
 
 ---
@@ -68,3 +70,9 @@ The **CNN–BiGRU** hybrid model performed best, effectively capturing both **lo
 ## Conclusion
 The **CNN–BiGRU** model outperformed others with the lowest RMSE and strong generalization on unseen data, making it most suitable for temperature forecasting.
 
+
+<img width="923" height="514" alt="image" src="https://github.com/user-attachments/assets/0f297c33-7aba-42c9-8ec4-acb599f394ab" />
+
+<img width="731" height="478" alt="image" src="https://github.com/user-attachments/assets/b66fca22-296d-44d3-a408-7443a9ec85b0" />
+
+<img width="752" height="475" alt="image" src="https://github.com/user-attachments/assets/5ed1669f-dcb6-456e-b127-b50c951e116e" />
